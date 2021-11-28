@@ -8,3 +8,6 @@
 * Step 2: Compile, Train, and Evaluate the Model
 * Step 3: Optimize the Model
 * Step 4: Report on the Neural Network Model
+
+![model_accuracy](https://user-images.githubusercontent.com/83611005/143726352-2d8c388e-7939-4c4d-8a94-0b1a5567285d.png)
+
